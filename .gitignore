@@ -1,0 +1,6 @@
+.DS_Store
+.tfstate
+.csv
+.json
+terraform.tfstate
+.terraform/

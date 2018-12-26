@@ -1,0 +1,58 @@
+C:\Users\KIMADMIN>manage-bde -status
+BitLocker Drive Encryption: Configuration Tool version 6.3.9600
+Copyright (C) 2013 Microsoft Corporation. All rights reserved.
+Disk volumes that can be protected with
+BitLocker Drive Encryption:
+Volume D: [Temporary Storage]
+[Data Volume]
+    Size:                 14.00 GB
+    BitLocker Version:    2.0
+    Conversion Status:    Used Space Only Encrypted
+    Percentage Encrypted: 100.0%
+    Encryption Method:    AES 256
+    Protection Status:    Protection On
+    Lock Status:          Unlocked
+    Identification Field: Unknown
+    Automatic Unlock:     Enabled
+    Key Protectors:
+        External Key (Required for automatic unlock)
+        Numerical Password
+Volume G: [Bek Volume]
+[Data Volume]
+    Size:                 0.05 GB
+    BitLocker Version:    None
+    Conversion Status:    Fully Decrypted
+    Percentage Encrypted: 0.0%
+    Encryption Method:    None
+    Protection Status:    Protection Off
+    Lock Status:          Unlocked
+    Identification Field: None
+    Automatic Unlock:     Disabled
+    Key Protectors:       None Found
+Volume F: [SQLVMDATA1]
+[Data Volume]
+    Size:                 1021.87 GB
+    BitLocker Version:    2.0
+    Conversion Status:    Used Space Only Encrypted
+    Percentage Encrypted: 100.0%
+    Encryption Method:    AES 256
+    Protection Status:    Protection On
+    Lock Status:          Unlocked
+    Identification Field: Unknown
+    Automatic Unlock:     Enabled
+    Key Protectors:
+        External Key (Required for automatic unlock)
+        Numerical Password
+Volume C: []
+[OS Volume]
+    Size:                 126.66 GB
+    BitLocker Version:    2.0
+    Conversion Status:    Used Space Only Encrypted
+    Percentage Encrypted: 100.0%
+    Encryption Method:    AES 256
+    Protection Status:    Protection On
+    Lock Status:          Unlocked
+    Identification Field: Unknown
+    Key Protectors:
+        External Key
+        Numerical Password
